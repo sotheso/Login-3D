@@ -18,7 +18,7 @@ struct ContentView: View {
             VStack(spacing: 12){
                 Text("Start App" )
                     .font(.title.bold())
-                Text("Stay up to date with all your social media platforms in one simple app.")
+                Text("Stay up to date with all your social media platforms in one simple app...")
             }
             .foregroundStyle(.secondary)
             .padding(.horizontal)
